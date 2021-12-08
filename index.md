@@ -4,7 +4,7 @@
 
 ### Python 
 
-[Gess the Number](/sample_page)
+[Matplotlib](/matplotlib.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
